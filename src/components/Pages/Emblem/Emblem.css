@@ -1,0 +1,17 @@
+.sub-container{
+    text-align: center;
+}
+.heading {
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.emblem-image {
+    max-height: 200px;
+}
+.content {
+    background-color: wheat;
+    border: 1px solid white;
+    /* border-radius: 18px; */
+    
+}

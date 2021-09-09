@@ -1,0 +1,27 @@
+.sidebar-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 8px 8px;
+    cursor: pointer;
+}
+.sidebar-body {
+    display: flex;
+    align-items: center;
+    margin: 8px 8px;
+    cursor: pointer;
+}
+.createpb {
+    width: 100%;
+    background-color: #63BE0A;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    font-size: medium;
+}
+.navigation-list {
+    font-weight: 500;
+}
+.navigation-item{
+    width: 100%;
+}

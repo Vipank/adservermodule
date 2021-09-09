@@ -1,0 +1,27 @@
+.circularprogresscustom-container{
+    background-color: rgba(0, 0, 0, .5);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.circle-animation {
+    animation: SUISpinnerRotation 400ms linear infinite;
+    display: block;
+    will-change: transform;
+}
+@keyframes SUISpinnerRotation {
+    100% {transform: rotate(360deg);}
+    
+}

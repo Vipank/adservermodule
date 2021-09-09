@@ -1,0 +1,9 @@
+.footer-container {
+    /* background: #ffb347; 
+    background: -webkit-linear-gradient(to right, #ffcc33, #ffb347); 
+    background: linear-gradient(to right, #ffcc33, #ffb347); */
+    background-color: white;
+    padding: 0;
+    max-width: 100%;
+    height: inherit;
+}
